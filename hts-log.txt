@@ -1,0 +1,80 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 12 May 2024 14:15:48 at www.fpiupdates.com.ng +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC1%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" www.fpiupdates.com.ng -O1 "C:\Users\HP\OneDrive\Desktop\fpiupdatesClone" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:15:52	Warning: 	Moved Permanently for www.fpiupdates.com.ng/fpiupdates.com.ng
+14:15:52	Warning: 	File has moved from www.fpiupdates.com.ng/fpiupdates.com.ng to http://www.fpiupdates.com.ng/fpiupdates.com.ng/
+14:15:52	Error: 	Unable to save file C:/Users/HP/OneDrive/Desktop/fpiupdatesClone/www.fpiupdates.com.ng/fpiupdates.com.ng: Permission denied
+14:15:52	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/twitter.com/FPI_Updates (from www.fpiupdates.com.ng/about)
+14:15:52	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/twitter.com/OPMayomi (from www.fpiupdates.com.ng/about)
+14:15:52	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/assett/js/jquery.min.js (from www.fpiupdates.com.ng/tutorial-videos)
+14:15:52	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/assett/js/jquery.scrolly.min.js (from www.fpiupdates.com.ng/tutorial-videos)
+14:15:52	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/assett/js/jquery.poptrox.min.js (from www.fpiupdates.com.ng/tutorial-videos)
+14:15:52	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/assett/js/skel.min.js (from www.fpiupdates.com.ng/tutorial-videos)
+14:15:52	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/assett/js/util.js (from www.fpiupdates.com.ng/tutorial-videos)
+14:15:52	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/assett/js/main.js (from www.fpiupdates.com.ng/tutorial-videos)
+14:15:57	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/Balovic-Award.jpg (from www.fpiupdates.com.ng/category/news)
+14:35:21	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.fpiupdates.com.ng/media/featuredImage/?NA
+14:35:21	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.fpiupdates.com.ng/media/featuredImage/?MD
+14:35:25	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.fpiupdates.com.ng/media/featuredImage/?SD
+14:35:27	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.fpiupdates.com.ng/media/?ND
+14:35:28	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.fpiupdates.com.ng/media/?MA
+14:35:29	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.fpiupdates.com.ng/media/?SA
+14:35:29	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.fpiupdates.com.ng/media/backgroundImages/
+14:35:29	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.fpiupdates.com.ng/media/documents/
+14:35:32	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/6studyingstrategies.jpg (from www.fpiupdates.com.ng/media/featuredImage/)
+14:35:32	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/aaut8176.jpg (from www.fpiupdates.com.ng/media/featuredImage/)
+14:35:33	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/acceptolevelresult.jpeg (from www.fpiupdates.com.ng/media/featuredImage/)
+14:35:33	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/accorequest.jpg (from www.fpiupdates.com.ng/media/featuredImage/)
+14:35:33	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/admissionnews.jpeg (from www.fpiupdates.com.ng/media/featuredImage/)
+14:35:33	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/aijl4787.jpg (from www.fpiupdates.com.ng/media/featuredImage/)
+14:35:33	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/asuuleader.jpg (from www.fpiupdates.com.ng/media/featuredImage/)
+14:35:33	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/bcwn3838.jpg (from www.fpiupdates.com.ng/media/featuredImage/)
+14:35:33	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/bolucareerpath.jpg (from www.fpiupdates.com.ng/media/featuredImage/)
+14:35:33	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/boluexplorer.jpg (from www.fpiupdates.com.ng/media/featuredImage/)
+14:35:33	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/brotherjerocoverbook.jpeg (from www.fpiupdates.com.ng/media/featuredImage/)
+14:35:33	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/diffbtwweekend&weekdays.jpeg (from www.fpiupdates.com.ng/media/featuredImage/)
+14:35:33	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/elect.jpeg (from www.fpiupdates.com.ng/media/featuredImage/)
+14:35:33	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/error.png (from www.fpiupdates.com.ng/media/featuredImage/)
+14:35:33	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/forfeitadmission.jpeg (from www.fpiupdates.com.ng/media/featuredImage/)
+14:35:33	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/fpiimage1.jpg (from www.fpiupdates.com.ng/media/featuredImage/)
+14:35:33	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/gns106&206free.png (from www.fpiupdates.com.ng/media/featuredImage/)
+14:35:33	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/ilaroexamstory.png (from www.fpiupdates.com.ng/media/featuredImage/)
+14:35:33	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/img-20230416-wa0003.jpg (from www.fpiupdates.com.ng/media/featuredImage/)
+14:35:33	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/img-20230422-wa0038.jpg (from www.fpiupdates.com.ng/media/featuredImage/)
+14:35:33	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/img-20230521-wa0100.jpg (from www.fpiupdates.com.ng/media/featuredImage/)
+14:35:33	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/img-20230523-wa0018.jpg (from www.fpiupdates.com.ng/media/featuredImage/)
+14:35:33	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/img_20230513_203502.jpg (from www.fpiupdates.com.ng/media/featuredImage/)
+14:35:33	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/info2applicants.jpg (from www.fpiupdates.com.ng/media/featuredImage/)
+14:35:33	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/musicpromotion.jpeg (from www.fpiupdates.com.ng/media/featuredImage/)
+14:35:33	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/napespresident.jpg (from www.fpiupdates.com.ng/media/featuredImage/)
+14:35:33	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/parttimeavailablecourses.jpeg (from www.fpiupdates.com.ng/media/featuredImage/)
+14:43:27	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/polyformapp.jpeg (from www.fpiupdates.com.ng/media/featuredImage/)
+14:43:27	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/postutme2know.jpeg (from www.fpiupdates.com.ng/media/featuredImage/)
+14:43:27	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/priortoenterfpi.jpeg (from www.fpiupdates.com.ng/media/featuredImage/)
+14:43:27	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/requireddocuments.jpeg (from www.fpiupdates.com.ng/media/featuredImage/)
+14:43:28	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/screenshot_20230501-220756.png (from www.fpiupdates.com.ng/media/featuredImage/)
+14:43:28	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/strategies-for-studying.jpg (from www.fpiupdates.com.ng/media/featuredImage/)
+14:43:28	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/studysmarter.jpeg (from www.fpiupdates.com.ng/media/featuredImage/)
+14:43:28	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/subjectcombinations.png (from www.fpiupdates.com.ng/media/featuredImage/)
+14:43:28	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/todoafterexam.jpeg (from www.fpiupdates.com.ng/media/featuredImage/)
+14:43:28	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/welcome2fpiupdatesweb.jpg (from www.fpiupdates.com.ng/media/featuredImage/)
+14:43:28	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/featuredImage/winalukoprize.jpg (from www.fpiupdates.com.ng/media/featuredImage/)
+14:44:02	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/backgroundImages/accommodationcover.jpg (from www.fpiupdates.com.ng/media/backgroundImages/)
+14:44:02	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/backgroundImages/admissioncover.jpg (from www.fpiupdates.com.ng/media/backgroundImages/)
+14:44:02	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/backgroundImages/admissionguidelines.jfif (from www.fpiupdates.com.ng/media/backgroundImages/)
+14:44:02	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/backgroundImages/advertisementcover.jpg (from www.fpiupdates.com.ng/media/backgroundImages/)
+14:44:16	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/backgroundImages/categorycover.png (from www.fpiupdates.com.ng/media/backgroundImages/)
+14:44:16	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/backgroundImages/compcatcover.png (from www.fpiupdates.com.ng/media/backgroundImages/)
+14:44:16	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/backgroundImages/donationcover.png (from www.fpiupdates.com.ng/media/backgroundImages/)
+14:44:16	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/backgroundImages/fpiimage1.jpg (from www.fpiupdates.com.ng/media/backgroundImages/)
+14:44:16	Warning: 	File not parsed, looks like binary: www.fpiupdates.com.ng/media/backgroundImages/testprep
+14:44:16	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/backgroundImages/tutorialvideocover.jpg (from www.fpiupdates.com.ng/media/backgroundImages/)
+14:44:16	Error: 	"Not Found" (404) at link www.fpiupdates.com.ng/media/backgroundImages/updatescover.jfif (from www.fpiupdates.com.ng/media/backgroundImages/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 28 minutes 30 seconds : 262 links scanned, 203 files written (56623742 bytes overall), 44 files updated [36885871 bytes received at 21570 bytes/sec], 150590 bytes transferred using HTTP compression in 37 files, ratio 36%, 1.9 requests per connection
+(58 errors, 11 warnings, 0 messages)
